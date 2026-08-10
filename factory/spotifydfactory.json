@@ -1,0 +1,15 @@
+{
+	"name": "spotifydfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "874fc699-b7d3-470c-b22a-ac2dfdd8108c",
+		"tenantId": "8a164b76-e4f5-48ad-bd50-f5ec0302e54c"
+	}
+}
