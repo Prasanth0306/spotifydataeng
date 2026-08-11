@@ -64,7 +64,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ParquetFile",
+						"referenceName": "ParquetDynamic",
 						"type": "DatasetReference"
 					}
 				]
