@@ -5,11 +5,6 @@
 			"referenceName": "spotifydatabase",
 			"type": "LinkedServiceReference"
 		},
-		"parameters": {
-			"from_date": {
-				"type": "string"
-			}
-		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": []
