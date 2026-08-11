@@ -320,31 +320,31 @@
 				"type": "Array",
 				"defaultValue": [
 					{
-						"schema": "dbo",
+						"schema": "dob",
 						"table": "DimUser",
 						"cdc_col": "updated_at",
 						"from_date": ""
 					},
 					{
-						"schema": "dbo",
+						"schema": "dob",
 						"table": "DimTrack",
 						"cdc_col": "updated_at",
 						"from_date": ""
 					},
 					{
-						"schema": "dbo",
+						"schema": "dob",
 						"table": "DimDate",
 						"cdc_col": "date",
 						"from_date": ""
 					},
 					{
-						"schema": "dbo",
+						"schema": "dob",
 						"table": "DimArtist",
 						"cdc_col": "updated_at",
 						"from_date": ""
 					},
 					{
-						"schema": "dbo",
+						"schema": "dob",
 						"table": "FactStream",
 						"cdc_col": "stream_timestamp",
 						"from_date": ""
