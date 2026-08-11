@@ -21,10 +21,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": {
-					"value": "@concat(pipeline().parameters.table,'-',variables(current))",
-					"type": "Expression"
-				},
 				"folderPath": "Users",
 				"fileSystem": "bronze"
 			},
